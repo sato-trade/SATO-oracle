@@ -1,2 +1,2 @@
-# SATO-oracle
-Smart contracts related to SATO oracles
+# SATO Oracle
+Smart contracts related to oracle price mechanism 
